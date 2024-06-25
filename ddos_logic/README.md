@@ -1,2 +1,0 @@
-# ddosopnoobyt
-Minecraft ddos
