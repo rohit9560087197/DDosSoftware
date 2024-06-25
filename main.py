@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import threading
 from gui import start_gui
 from ddos_logic.packets import PacketHandler
@@ -66,3 +68,6 @@ def proxy_start():
     except Exception as e:
         print(f"An error occurred: {e}")
 
+if __name__ == "__main__":
+    start_gui()
+    proxy_start()
