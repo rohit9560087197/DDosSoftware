@@ -1,9 +1,0 @@
-{
-    "proxies": "http",
-    "webhook": {
-        "url": "",
-        "username": "Nitro Generator",
-        "avatar": ""
-    },
-    "thread": "10"
-}
